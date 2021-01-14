@@ -17,3 +17,7 @@ For the third time adding more text.
 
 About deploying software
 And also in deployment dection we are adding more text.
+
+### Copyright
+
+2021 Git.Training.
